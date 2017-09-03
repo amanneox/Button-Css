@@ -1,3 +1,114 @@
+# Button Css
+
+A button libriary for web, Built on css.
+## Getting Started
+Download the libriary or directly use CDN to import in your project.
+### Installing
+```
+https://www.dropbox.com/s/z09a2uv7d3360q6/component.css?dl=0
+https://www.dropbox.com/s/7ndepb5s8urxmg4/classie.js?dl=0
+https://www.dropbox.com/s/29wrscbojmfr4o7/button.js?dl=0
+```
+
+(component.css) , (classie.js) & (button.js)
+
+### Code
+**Style 1**
+```
+	<button class="btn btn-1 btn-1a">Button</button>
+	<button class="btn btn-1 btn-1b">Button</button>
+	<button class="btn btn-1 btn-1c">Button</button>
+	<button class="btn btn-1 btn-1d">Button</button>
+	<button class="btn btn-1 btn-1e">Button</button>
+	<button class="btn btn-1 btn-1f">Button</button>
+```
+**Style 2**
+```
+	<button class="btn btn-2 btn-2a">Button</button>
+	<button class="btn btn-2 btn-2b">Button</button>
+	<button class="btn btn-2 btn-2c">Button</button>
+	<button class="btn btn-2 btn-2d">Button</button>
+	<button class="btn btn-2 btn-2e">Button</button>
+	<button class="btn btn-2 btn-2f">Button</button>
+	<button class="btn btn-2 btn-2g">Button</button>
+	<button class="btn btn-2 btn-2h">Button</button>
+        <button class="btn btn-2 btn-2i">Yes</button>
+	<button class="btn btn-2 btn-2j">No</button>
+```
+**Style 3**
+```
+	<button class="btn btn-3 btn-3a icon-cart">Add to cart</button>
+	<button class="btn btn-3 btn-3b icon-star-2">Bookmark</button>
+	<button class="btn btn-3 btn-3c icon-heart-2">Favorite</button>
+	<button class="btn btn-3 btn-3d icon-cog">Settings</button>
+	<button class="btn btn-3 btn-3e icon-arrow-right">Send data</button>
+```
+**Style 4**
+```
+	<button class="btn btn-4 btn-4a icon-arrow-right">Continue</button>
+	<button class="btn btn-4 btn-4b icon-arrow-left">Return</button>
+	<button class="btn btn-4 btn-4c icon-arrow-right">Continue</button>
+	<button class="btn btn-4 btn-4d icon-arrow-left">Return</button>
+```
+**Style 5**
+```
+	<button class="btn btn-5 btn-5a icon-cart"><span>Add to cart</span></button>
+	<button class="btn btn-5 btn-5a icon-remove"><span>Delete</span></button>
+	<button class="btn btn-5 btn-5a icon-cog"><span>Settings</span></button>
+	<button class="btn btn-5 btn-5b icon-cart"><span>Add to cart</span></button>
+	<button class="btn btn-5 btn-5b icon-remove"><span>Delete</span></button>
+	<button class="btn btn-5 btn-5b icon-cog"><span>Settings</span></button>
+```
+**Style 6**
+```
+	<button class="btn btn-6 btn-6a">Button</button>
+	<button class="btn btn-6 btn-6b">Button</button>
+	<button class="btn btn-6 btn-6c">Button</button>
+	<button class="btn btn-6 btn-6d">Button</button>
+	<button class="btn btn-6 btn-6e">Button</button>
+	<button class="btn btn-6 btn-6f">Button</button>
+	<button class="btn btn-6 btn-6g">Button</button>
+	<button class="btn btn-6 btn-6h">Button</button>
+	<button class="btn btn-6 btn-6i">Button</button>
+	<button class="btn btn-6 btn-6j">Button</button>
+	<button class="btn btn-6 btn-6k">Button</button>
+	<button class="btn btn-6 btn-6l">Button</button>
+```
+**Style 7**
+```
+	<button class="btn btn-7 btn-7a icon-truck">Order item</button>
+	<button class="btn btn-7 btn-7b icon-envelope">Send message</button>
+	<button class="btn btn-7 btn-7c btn-icon-only icon-arrow-right">Submit</button>
+	<button class="btn btn-7 btn-7d btn-icon-only icon-remove">Empty</button>
+	<button class="btn btn-7 btn-7e btn-icon-only icon-heart">Like</button>
+	<button class="btn btn-7 btn-7f btn-icon-only icon-star">Fav</button>
+	<button class="btn btn-7 btn-7g btn-icon-only icon-plus">Add</button>
+	<button class="btn btn-7 btn-7g btn-icon-only icon-cart">Cart</button>
+	<button class="btn btn-7 btn-7h icon-envelope">Submit form</button>
+	<button class="btn btn-7 btn-7h icon-envelope">Submit form</button>
+	
+	<button class="btn btn-7 btn-7i btn-icon-only icon-remove-2">Remove</button>
+					<div class="icon-file"></div>
+					<div class="icon-file"></div>
+					<div class="icon-file"></div>
+					
+```
+**Style 8**
+```
+	<button class="btn btn-8 btn-8a">3D Button</button>
+	<button class="btn btn-8 btn-8b">3D Button</button>
+	<button class="btn btn-8 btn-8c">3D Button</button>
+	<button class="btn btn-8 btn-8d">3D Button</button>
+	<button class="btn btn-8 btn-8e">3D Button</button>
+	<button class="btn btn-8 btn-8f">3D Button</button>
+	<button class="btn btn-8 btn-8g">3D Button</button>
+	<button class="btn btn-8 btn-8g">3D Button</button>
+```
+## Note:
+Some Buttons might not work on phone
+
+## License
+
 MIT License
 
 Copyright (c) [2017] [AMAN ADHIKARI]
