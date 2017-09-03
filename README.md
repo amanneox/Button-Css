@@ -1,8 +1,13 @@
 # Button Css
 
 A button libriary for web, Built on css.
+Version-1.0
 ## Getting Started
 Download the libriary or directly use CDN to import in your project.
+# Demo
+
+www.buttoncss.ml
+
 ### Installing
 ```
 https://www.dropbox.com/s/z09a2uv7d3360q6/component.css?dl=0
@@ -86,12 +91,12 @@ https://www.dropbox.com/s/29wrscbojmfr4o7/button.js?dl=0
 	<button class="btn btn-7 btn-7g btn-icon-only icon-cart">Cart</button>
 	<button class="btn btn-7 btn-7h icon-envelope">Submit form</button>
 	<button class="btn btn-7 btn-7h icon-envelope">Submit form</button>
-	
+
 	<button class="btn btn-7 btn-7i btn-icon-only icon-remove-2">Remove</button>
 					<div class="icon-file"></div>
 					<div class="icon-file"></div>
 					<div class="icon-file"></div>
-					
+
 ```
 **Style 8**
 ```
