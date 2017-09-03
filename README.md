@@ -1,4 +1,4 @@
-#Button Css
+Button Css
 
 A button libriary for web built on css.
 ## Getting Started
@@ -8,8 +8,12 @@ Download the libriary or directly use CDN to import in your project.
 <script>
 (component.css) & (classie.js)
 
-###Examples
-
+### And coding style tests
+```
+	<button class="btn btn-1 btn-1a">Button</button>
+	<button class="btn btn-1 btn-1b">Button</button>
+	<button class="btn btn-1 btn-1c">Button</button>
+```
 
 MIT License
 
