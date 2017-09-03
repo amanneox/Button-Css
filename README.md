@@ -1,6 +1,6 @@
 # Button Css
 
-A button libriary for web built on css.
+A button libriary for web, Built on css.
 ## Getting Started
 Download the libriary or directly use CDN to import in your project.
 ### Installing
@@ -105,6 +105,7 @@ https://www.dropbox.com/s/29wrscbojmfr4o7/button.js?dl=0
 	<button class="btn btn-8 btn-8g">3D Button</button>
 ```
 ## Note:
+Some Buttons might not work on phone
 
 ## License
 
