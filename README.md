@@ -1,4 +1,4 @@
-**Button Css**
+# Button Css
 
 A button libriary for web built on css.
 ## Getting Started
@@ -7,8 +7,10 @@ Download the libriary or directly use CDN to import in your project.
 ```
 https://www.dropbox.com/s/z09a2uv7d3360q6/component.css?dl=0
 https://www.dropbox.com/s/7ndepb5s8urxmg4/classie.js?dl=0
+https://www.dropbox.com/s/29wrscbojmfr4o7/button.js?dl=0
 ```
-(component.css) & (classie.js)
+
+(component.css) , (classie.js) & (button.js)
 
 ### Code
 **Style 1**
@@ -102,6 +104,8 @@ https://www.dropbox.com/s/7ndepb5s8urxmg4/classie.js?dl=0
 	<button class="btn btn-8 btn-8g">3D Button</button>
 	<button class="btn btn-8 btn-8g">3D Button</button>
 ```
+## Note:
+
 ## License
 
 MIT License
