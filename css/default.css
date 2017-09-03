@@ -187,7 +187,7 @@ a:active {
 	font-weight: bold;
 }
 #download{
-	
+
 	border: none;
 	background: #222;
 }
@@ -203,7 +203,9 @@ body > div > div > a{
 }
 
 @media screen and (max-width: 25em) {
-
+#download{
+	margin: 0;
+}
 	.codrops-icon span {
 		display: none;
 	}
