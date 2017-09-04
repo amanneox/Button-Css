@@ -10,9 +10,9 @@ www.buttoncss.ml
 
 ### Installing
 ```
-https://www.dropbox.com/s/z09a2uv7d3360q6/component.css?dl=0
-https://www.dropbox.com/s/7ndepb5s8urxmg4/classie.js?dl=0
-https://www.dropbox.com/s/29wrscbojmfr4o7/button.js?dl=0
+http://res.cloudinary.com/dhb3aq2nq/raw/upload/v1504491970/component_gfmyqh.css
+http://res.cloudinary.com/dhb3aq2nq/raw/upload/v1504492098/button_gfernk.js
+http://res.cloudinary.com/dhb3aq2nq/raw/upload/v1504492098/classie_eweast.js
 ```
 
 (component.css) , (classie.js) & (button.js)
