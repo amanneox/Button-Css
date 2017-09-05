@@ -1,6 +1,6 @@
 # Button Css
 
-A button libriary for web, Built on css.
+A button library for web, Built on css.
 Version-1.0
 ## Getting Started
 Download the libriary or directly use CDN to import in your project.
