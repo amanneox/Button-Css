@@ -6,7 +6,7 @@ Version-1.0
 Download the libriary or directly use CDN to import in your project.
 # Demo
 
-www.buttoncss.ml
+https://amanneox.github.io/Button-Css/
 
 ### Installing
 ```
